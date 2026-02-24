@@ -29,7 +29,7 @@ Red Team penetration testing lab simulating attacks on a corporate internal netw
 
 - Telegram: @N729284  
 - Email: nazarudod105@gmail.com  
-
+- Habr career: https://career.habr.com/flash1ng
 ---
 
 ## ⚡ Fun Fact
