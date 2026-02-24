@@ -1,6 +1,3 @@
-# AboutME
-
-
 # 👋 Hi, I'm Nazar Arestov !!!
 
 💻 **Network & Security Enthusiast | Red Team / Penetration Testing | IT Infrastructure Lab**  
@@ -20,10 +17,10 @@ Passionate about designing secure network infrastructures, performing penetratio
 
 ## 🔹 Projects
 
-### 1. [Corporate-Network-with-CA-and-Firewall](https://github.com/yourusername/Corporate-Network-with-CA-and-Firewall)  
+### 1. [Corporate-Network-with-CA-and-Firewall](https://github.com/flash1ng/Enterprise-network-with-ca-and-firewall)  
 Enterprise network lab built in Cisco Packet Tracer with VLAN segmentation, FTP server, a central Certificate Authority, firewall via iptables, inter-VLAN routing, and a guest Wi-Fi network. Demonstrates practical skills in network design, server management, and basic network security.  
 
-### 2. [Internal-Infrastructure-Pentest-Lab](https://github.com/yourusername/Internal-Infrastructure-Pentest-Lab)  
+### 2. [Internal-Infrastructure-Pentest-Lab](https://github.com/flash1ng/Internal-infrastructure-pentest-lab)  
 Red Team penetration testing lab simulating attacks on a corporate internal network. Includes full-cycle engagement: network reconnaissance, vulnerability assessment, credential harvesting, web application testing (WordPress, DVWA), and Maltego visualization. Contains detailed findings, screenshots, and actionable recommendations.  
 
 ---
